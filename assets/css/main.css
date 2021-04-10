@@ -276,7 +276,7 @@
 		}
 
 	strong, b {
-		color: #444444;
+		color: #000000;
 	}
 
 	h1, h2, h3, h4, h5, h6 {
@@ -284,16 +284,16 @@
 	}
 
 	blockquote {
-		border-left-color: #666666;
+		border-left-color: #000000;
 	}
 
 	code {
 		background: rgba(144, 144, 144, 0.075);
-		border-color: #666666;
+		border-color: #000000;
 	}
 
 	hr {
-		border-bottom-color: #666666;
+		border-bottom-color: #000000;
 	}
 
 /* Box */
@@ -318,7 +318,7 @@
 		}
 
 	.box {
-		border-color: #666666;
+		border-color: #000000;
 	}
 
 /* Button */
@@ -613,7 +613,7 @@
 	}
 
 	label {
-		color: #444444;
+		color: #000000;
 	}
 
 	input[type="text"],
@@ -622,7 +622,7 @@
 	select,
 	textarea {
 		background: rgba(144, 144, 144, 0.075);
-		border-color: #666666;
+		border-color: #000000;
 	}
 
 		input[type="text"]:focus,
@@ -635,12 +635,12 @@
 		}
 
 	.select-wrapper:before {
-		color: #666666;
+		color: #000000;
 	}
 
 	input[type="checkbox"] + label,
 	input[type="radio"] + label {
-		color: #666666;
+		color: #000000;
 	}
 
 		input[type="checkbox"] + label:before,
@@ -948,7 +948,7 @@
 		}
 
 	ul.alt li {
-		border-top-color: #666666;
+		border-top-color: #000000;
 	}
 
 /* Table */
@@ -1015,7 +1015,7 @@
 			}
 
 	table tbody tr {
-		border-color: #666666;
+		border-color: #000000;
 	}
 
 		table tbody tr:nth-child(2n + 1) {
@@ -1023,19 +1023,19 @@
 		}
 
 	table th {
-		color: #444444;
+		color: #000000;
 	}
 
 	table thead {
-		border-bottom-color: #666666;
+		border-bottom-color: #000000;
 	}
 
 	table tfoot {
-		border-top-color: #666666;
+		border-top-color: #000000;
 	}
 
 	table.alt tbody tr td {
-		border-color: #666666;
+		border-color: #000000;
 	}
 
 /* Item */
@@ -1530,7 +1530,7 @@
 			display: inline-block;
 			width: 6em;
 			height: 2px;
-			background-color: #666666;
+			background-color: #000000;
 			margin-bottom: 4em;
 		}
 
